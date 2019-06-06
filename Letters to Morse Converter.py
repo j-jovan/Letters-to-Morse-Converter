@@ -52,4 +52,27 @@ for i in range(0, len(x), 1):
 		print("-.-- ", sep=' ', end='', flush=True)
 	if(x[i] == "z"):
 		print("--.. ", sep=' ', end='', flush=True)
+	if(x[i] == "1"):
+		print(".---- ", sep=' ', end='', flush=True)
+	if(x[i] == "2"):
+		print("..--- ", sep=' ', end='', flush=True)
+	if(x[i] == "3"):
+		print("...-- ", sep=' ', end='', flush=True)
+	if(x[i] == "4"):
+		print("....- ", sep=' ', end='', flush=True)
+	if(x[i] == "5"):
+		print("..... ", sep=' ', end='', flush=True)
+	if(x[i] == "6"):
+		print("-.... ", sep=' ', end='', flush=True)
+	if(x[i] == "7"):
+		print("--... ", sep=' ', end='', flush=True)
+	if(x[i] == "8"):
+		print("---.. ", sep=' ', end='', flush=True)
+	if(x[i] == "9"):
+		print("----. ", sep=' ', end='', flush=True)
+	if(x[i] == "0"):
+		print("----- ", sep=' ', end='', flush=True)
+
+
+
 
